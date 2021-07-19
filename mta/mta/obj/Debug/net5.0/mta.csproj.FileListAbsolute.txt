@@ -1,0 +1,16 @@
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\mta.exe
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\mta.deps.json
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\mta.runtimeconfig.json
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\mta.runtimeconfig.dev.json
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\mta.dll
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\ref\mta.dll
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\bin\Debug\net5.0\mta.pdb
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.csprojAssemblyReference.cache
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.AssemblyInfo.cs
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.dll
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\ref\mta.dll
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.pdb
+C:\Users\cesar\Documents\repos\c#_exercises\mta\mta\mta\obj\Debug\net5.0\mta.genruntimeconfig.cache
