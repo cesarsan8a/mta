@@ -55,9 +55,8 @@ namespace mta
                         Array.Reverse(lineN.stops);
                         tripDirection = lineN.stops;
 
-                        int temp = stationInIndex;
-                        stationInIndex = stationOutIndex;
-                        stationOutIndex = temp;
+                        stationInIndex = Array.IndexOf(tripDirection, stationIn);
+                        stationOutIndex = Array.IndexOf(tripDirection, stationOut);
                     }
 
                     // display trip
@@ -89,9 +88,8 @@ namespace mta
                         Array.Reverse(lineL.stops);
                         tripDirection = lineL.stops;
 
-                        int temp = stationInIndex;
-                        stationInIndex = stationOutIndex;
-                        stationOutIndex = temp;
+                        stationInIndex = Array.IndexOf(tripDirection, stationIn);
+                        stationOutIndex = Array.IndexOf(tripDirection, stationOut);
                     }
 
                     // display trip
@@ -121,19 +119,15 @@ namespace mta
                     {
                         // user is going in the opposite direction
                         Array.Reverse(line6.stops);
+
                         tripDirection = line6.stops;
 
-                        int temp = stationInIndex;
-                        stationInIndex = stationOutIndex;
-                        stationOutIndex = temp;
+                        stationInIndex = Array.IndexOf(tripDirection, stationIn);
+                        stationOutIndex = Array.IndexOf(tripDirection, stationOut);
                     }
 
                     // display trip
                     line = line6.name;
-
-                    int start = Array.IndexOf(tripDirection, stationIn);
-                    int end = Array.IndexOf(tripDirection, stationOut);
-
                     Console.WriteLine($"You must travel through the following stops on the { line }:");
                     for (int i = stationInIndex; i <= stationOutIndex; i++)
                     {
